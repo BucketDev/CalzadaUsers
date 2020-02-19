@@ -1,0 +1,28 @@
+.spacer {
+  margin-right: auto;
+}
+
+small > * {
+  margin: .5rem;
+}
+
+.btn-avatar {
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  border-radius: 3px 0 0 3px;
+  margin-right: 1rem;
+}
+
+button.spacer {
+  padding-left: 0;
+  line-height: 0;
+}
+
+mat-slide-toggle {
+  font-size: .8rem;
+}
+
+mat-card {
+  margin: 1rem;
+}
